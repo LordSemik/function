@@ -1,0 +1,6 @@
+{
+"name": "$title",
+"usage": "$title[индекс;текст]",
+"description": "описание",
+"example": "пример"
+}
