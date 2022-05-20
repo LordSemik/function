@@ -1,16 +1,11 @@
 {
-"name": "$title",
-"usage": "$title[индекс;текст]",
-"description": "описание",
-"example": "пример"
-}, {
 "name": "название", 
 "usage": "применение", 
 "description": "описание", 
 "example": "пример", 
 },{
-"name": "название", 
-"usage": "применение", 
-"description": "описание", 
-"example": "пример", 
+"name": "$title",
+"usage": "$title[индекс;текст]",
+"description": "Добавляет заголовок к сообщению.",
+"example": "$title[1;$userTag[$clientID];$getBotInvite"
 },
