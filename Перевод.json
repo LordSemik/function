@@ -1,11 +1,83 @@
 {
+{
 "name": "название", 
 "usage": "применение", 
 "description": "описание", 
 "example": "пример", 
 },{
 "name": "$title",
-"usage": "$title[индекс;текст]",
+"usage": "$title[индекс;текст;url(необязательно)]",
 "description": "Добавляет заголовок к сообщению.",
 "example": "$title[1;$userTag[$clientID];$getBotInvite"
-},
+},{
+"name": "$abbreviate", 
+"usage": "$abbreviate[число]", 
+"description": "сокращяет большие числа", 
+"example": "$abbreviate[$message]"
+},{
+"name": "$activity", 
+"usage": "$activity[ID пользователя(необязательно)]", 
+"description": "отображает активность пользователя", 
+"example": "$activity[]"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример"
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример" 
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример" 
+},{
+"name": "название", 
+"usage": "применение", 
+"description": "описание", 
+"example": "пример" 
+}
+}
