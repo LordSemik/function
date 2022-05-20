@@ -20,8 +20,8 @@
 "description": "отображает активность пользователя", 
 "example": "$activity[]"
 },{
-"name": "название", 
-"usage": "применение", 
+"name": "$addbutton", 
+"usage": "$addbutton[индекс;label;стиль;customId;disabled?;emoji", 
 "description": "описание", 
 "example": "пример"
 },{
