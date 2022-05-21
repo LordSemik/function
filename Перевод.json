@@ -38,9 +38,7 @@
 "name": "$addField", 
 "usage": "$addField[индекс;текст;значение;встроенный]", 
 "description": "добавляет новое поле к вложению", 
-"example": " $addField[3;Example Field;Value Field;yes]
-    $addField[2;Example Field;Value Field;yes]
-    $addField[1;Example Field;Value Field;no]"
+"example": "$addField[3;Example Field;Value Field;yes] $addField[2;Example Field;Value Field;yes] $addField[1;Example Field;Value Field;no]"
 },{
 "name": "$addFields", 
 "usage": "$addFields[индекс;текст;значение;встроенный]", 
